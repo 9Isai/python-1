@@ -1,0 +1,18 @@
+import math
+
+szam = int(input("kérek egy számot: "))
+
+
+hatvany = szam ** 2
+
+print(f"A szám hatványa: {hatvany}")
+
+gyok = math.sqrt(szam)
+print(f"A szám gyoke: {gyok}.2f")
+
+
+
+
+
+
+
